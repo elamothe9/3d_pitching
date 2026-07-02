@@ -1,0 +1,5 @@
+PASTE THE CODE BELOW INTO TERMINAL TO START SERVER:
+uvicorn main:app --reload --port 8000
+
+PASTE BELOW TO ACCESS WEBSITE:
+http://localhost:5173/
